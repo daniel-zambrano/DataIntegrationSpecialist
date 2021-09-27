@@ -1,3 +1,3 @@
-# DataIntegration
+# DataIntegrationSpecialist
 
 Data Integration Specialist Superbadge
